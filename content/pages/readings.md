@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d7cfd5cc-0d2e-3054-c937-ff6f333a2195
 ---
@@ -80,7 +83,7 @@ Transgenic Animals in Complex Disease Modeling
 
 Joshi, R. L., B. Lamothe, et al. [Targeted Disruption of the Insulin Receptor Gene in the Mouse Results in Neonatal Lethality](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC450062/). _The EMBO Journal_ 15, no. 7 (1996): 1542–7.
 
-Forlino, A., F. D. Porter, et al. [Use of the Cre/_lox_ Recombination System to Develop a Non-lethal Knock-in Murine Model for Osteogenesis Iimperfecta with an α1(I) G349C Substitution. Variability in Phenotype in BrtlIV Mice](http://dx.doi.org/10.1074/jbc.274.53.37923). _The Journal of Biological Chemistry_ 274 (1999): 37923–31.
+Forlino, A., F. D. Porter, et al. [Use of the Cre/_lox_ Recombination System to Develop a Non-lethal Knock-in Murine Model for Osteogenesis Iimperfecta with an α1(I) G{{< sub "349" >}}C Substitution. Variability in Phenotype in BrtlIV Mice](http://dx.doi.org/10.1074/jbc.274.53.37923). _The Journal of Biological Chemistry_ 274 (1999): 37923–31.
 
 
 {{< tdclose >}}
