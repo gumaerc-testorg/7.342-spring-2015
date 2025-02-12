@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, summaries of each
+  lecture, and links to related materials.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -133,7 +135,7 @@ Large Transgenic Mammalian Model Systems
 Oral Presentations
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "Summ_8" >}}{{< /anchor >}}Oral presentations will occur in this session. All students will give their oral presentations as described in the [Assignments]({{< baseurl >}}/pages/assignments) section of this course.
+{{< anchor "Summ_8" >}}{{< /anchor >}}Oral presentations will occur in this session. All students will give their oral presentations as described in the {{% resource_link a2c9f569-476c-90c0-16f0-fa48b3e79d9a "Assignments" %}} section of this course.
 {{< tdclose >}}
 
 {{< trclose >}}

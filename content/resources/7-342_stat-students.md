@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Image showing the approximate number of students enrolled in the class.
-file: /courses/7-342-pluripotent-stem-cells-and-genome-engineering-for-modeling-human-diseases-spring-2015/ce2de49f19f7921553dac5366f6e9635_7-342_stat-students.png
+file: /ol-ocw-studio-app/courses/7-342-pluripotent-stem-cells-and-genome-engineering-for-modeling-human-diseases-spring-2015/ce2de49f19f7921553dac5366f6e9635_7-342_stat-students.png
+file_size: 2955
 file_type: image/png
 image_metadata:
   caption: ''

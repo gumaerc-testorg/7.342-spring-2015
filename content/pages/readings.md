@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides citations and links to the readings for each weekly
+  session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Introduction to the Course
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Introduction)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Introduction" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ Introduction to the Course
 
 Embryonic Stem Cells, Gene Targeting and Transgenic Animals
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_2)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Summ_2" %}}
 
 
 {{< tdclose >}}
@@ -74,7 +76,7 @@ Mansour, S. L., K. R. Thomas, et al. "[Disruption of the Proto-Oncogene _int-2_ 
 
 Transgenic Animals in Complex Disease Modeling
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_3)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Summ_3" %}}
 
 
 {{< tdclose >}}
@@ -98,7 +100,7 @@ Forlino, A., F. D. Porter, et al. [Use of the Cre/_lox_ Recombination System to 
 
 Regenerative Medicine: Human Embryonic Stem Cells
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_4)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Summ_4" %}}
 
 
 {{< tdclose >}}
@@ -122,7 +124,7 @@ Pagliuca, F. W., J. R. Millman, et al. [Generation of Functional Human Pancreati
 
 Nuclear Transfer and Cellular Reprogramming
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_5)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Summ_5" %}}
 
 
 {{< tdclose >}}
@@ -146,7 +148,7 @@ Takahashi, K., and S. Yamanaka. [Induction of Pluripotent Stem Cells from Mouse 
 
 Induced Pluripotent Stem Cells and Disease Modeling
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_6)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Summ_6" %}}
 
 
 {{< tdclose >}}
@@ -170,7 +172,7 @@ Kondo, T., M. Asai, et al. [Modeling Alzheimer's Disease with iPSCs Reveals Stre
 
 Large Transgenic Mammalian Model Systems
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_7)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Summ_7" %}}
 
 
 {{< tdclose >}}
@@ -194,7 +196,7 @@ Yang, B., J. Wang, et al. [Characterization of Bioactive Recombinant Human Lysoz
 
 Oral Presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_8)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Summ_8" %}}
 
 
 {{< tdclose >}}
@@ -212,7 +214,7 @@ No Readings
 
 Ethical Concerns with Stem Cell Biology
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_9)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Summ_9" %}}
 
 
 {{< tdclose >}}
@@ -236,7 +238,7 @@ McHugh, P. R. [Zygote and "Clonote"—The Ethical Use of Embryonic Stem Cells](h
 
 ZFN and TALEN Strategies for Genome Editing and Disease Modeling
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_10)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Summ_10" %}}
 
 
 {{< tdclose >}}
@@ -260,7 +262,7 @@ Kato, T., K. Miyata, et al. [Production of _Sry_ knockout Mouse Using TALEN Via 
 
 CRISPR/Cas9 Strategies for Genome Editing and Disease Modeling
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_11)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Summ_11" %}}
 
 
 {{< tdclose >}}
@@ -284,7 +286,7 @@ Mandal, P. K., L. M. Ferreira, et al. [Efficient Ablation of Genes in Human Hema
 
 3D Culture Systems
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_12)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Summ_12" %}}
 
 
 {{< tdclose >}}
@@ -308,7 +310,7 @@ Schwank, G., B. K. Koo, et al. [Functional repair of CFTR by CRISPR/Cas9 in Inte
 
 Transdifferentiation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_13)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Summ_13" %}}
 
 
 {{< tdclose >}}
@@ -332,7 +334,7 @@ Ieda, M., J. D. Fu, et al. [Direct Reprogramming of Fibroblasts into Functional 
 
 Student Topic of Choice
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_14)
+{{% resource_link 614d4bbb-8783-0a81-2d37-7cd6385ad569 "See the Lecture Summary" "#Summ_14" %}}
 
 
 {{< tdclose >}}
