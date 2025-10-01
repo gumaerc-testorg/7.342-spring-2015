@@ -51,9 +51,9 @@ Embryonic Stem Cells, Gene Targeting and Transgenic Animals
 
 ### Optional
 
-ResearchChannel. "Understanding Embryonic Stem Cells." September 16, 2008. YouTube. [https://www.youtube.com/watch?v=nYNBNZJ8Xck](https://www.youtube.com/watch?v=nYNBNZJ8Xck)
+ResearchChannel. "Understanding Embryonic Stem Cells." September 16, 2008. YouTube. {{% resource_link "d04cf09a-faec-43b7-a9b9-0d025112bf60" "https://www.youtube.com/watch?v=nYNBNZJ8Xck" %}}
 
-iBioMagazine. "Mario Capecchi: The Birth of Gene Targeting." March 13, 2011. YouTube. [https://www.youtube.com/watch?v=WQr6ZeNe-vE](http://www.youtube.com/watch?v=WQr6ZeNe-vE)
+iBioMagazine. "Mario Capecchi: The Birth of Gene Targeting." March 13, 2011. YouTube. {{% resource_link "1a3022a8-cee9-49b9-8907-f82ddf9338b7" "https://www.youtube.com/watch?v=WQr6ZeNe-vE" %}}
 
 
 {{< tdclose >}}
@@ -97,7 +97,7 @@ Nuclear Transfer and Cellular Reprogramming
 
 ### Optional
 
-Tuxillaplanet. "2012-09-29 NHK The Future of iPS Cells, Shinya Yamanaka & Ian Wilmut in Discussion." October 8, 2012. YouTube. [https://www.youtube.com/watch?v=bhfRYTJ2p3E](https://www.youtube.com/watch?v=bhfRYTJ2p3E)
+Tuxillaplanet. "2012-09-29 NHK The Future of iPS Cells, Shinya Yamanaka & Ian Wilmut in Discussion." October 8, 2012. YouTube. {{% resource_link "5351e44d-db53-4ef6-ad68-4429627ab37d" "https://www.youtube.com/watch?v=bhfRYTJ2p3E" %}}
 
 
 {{< tdclose >}}
@@ -177,9 +177,9 @@ CRISPR/Cas9 Strategies for Genome Editing and Disease Modeling
 
 ### Optional
 
-Lynn Marquis. "Game Changing Therapeutic Technology." August 4, 2014. YouTube. [https://www.youtube.com/watch?v=Egf7vyxe3dQ](https://www.youtube.com/watch?v=Egf7vyxe3dQ)
+Lynn Marquis. "Game Changing Therapeutic Technology." August 4, 2014. YouTube. {{% resource_link "a93326a8-f5ce-4a03-96b4-0656200365b4" "https://www.youtube.com/watch?v=Egf7vyxe3dQ" %}}
 
-McGovern Institute for Brain Research at MIT. "Genome-Editing with CRISPR/Cas9." November 5, 2014. YouTube. [https://www.youtube.com/watch?v=2pp17E4E-O8](https://www.youtube.com/watch?v=2pp17E4E-O8)
+McGovern Institute for Brain Research at MIT. "Genome-Editing with CRISPR/Cas9." November 5, 2014. YouTube. {{% resource_link "5248308c-ab5a-4816-9b7e-b6367730d379" "https://www.youtube.com/watch?v=2pp17E4E-O8" %}}
 
 
 {{< tdclose >}}
